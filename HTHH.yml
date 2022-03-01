@@ -1,6 +1,6 @@
-name: OPAM
+name: pygmt
 channels:
- - defaults
+  - conda-forge
 dependencies:
  - pandas
  - scipy
