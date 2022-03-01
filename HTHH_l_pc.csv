@@ -1,0 +1,760 @@
+﻿grain,Primary shape,Secondary feature,Fractures
+g_1,blocky,jagged-vesicular,none observed
+g_2,blocky,none,maybe some
+g_3,blocky,none,maybe some
+g_4,elongated-tubular,none,none observed
+g_5,blocky,none,some
+g_6,elongated-tubular,none,none
+g_7,fluidal,none,none
+g_8,jagged-vesicular,none,none
+g_9,blocky,none,none
+g_10,elongated-tubular,none,none
+g_11,blocky,none,none observed
+g_12,blocky,jagged-vesicular,some
+g_13,blocky,none,clearly many
+g_14,blocky,none,maybe some
+g_15,blocky,jagged-vesicular,some
+g_16,fluidal,jagged-vesicular,none
+g_17,blocky,none,none observed
+g_18,jagged-vesicular,none,none observed
+g_19,fluidal,none,none
+g_20,blocky,jagged-vesicular,maybe some
+g_21,jagged-vesicular,blocky,some
+g_22,jagged-vesicular,none,none observed
+g_23,blocky,jagged-vesicular,none
+g_24,blocky,none,maybe some
+g_25,blocky,none,none observed
+g_26,blocky,none,some
+g_27,elongated-tubular,fluidal,none observed
+g_28,jagged-vesicular,none,none
+g_29,jagged-vesicular,none,maybe some
+g_30,fluidal,blocky,none
+g_31,blocky,none,none observed
+g_32,jagged-vesicular,fluidal,none
+g_33,blocky,jagged-vesicular,none
+g_34,blocky,none,none observed
+g_35,jagged-vesicular,none,none
+g_36,blocky,none,none observed
+g_37,blocky,none,maybe some
+g_38,blocky,none,some
+g_39,elongated-tubular,none,none
+g_40,blocky,none,clearly many
+g_41,blocky,fluidal,none
+g_42,blocky,elongated-tubular,none observed
+g_43,elongated-tubular,blocky,none
+g_44,elongated-tubular,blocky,none observed
+g_45,jagged-vesicular,none,maybe some
+g_46,blocky,jagged-vesicular,some
+g_47,jagged-vesicular,none,none observed
+g_48,jagged-vesicular,none,none
+g_49,blocky,none,some
+g_50,blocky,elongated-tubular,none
+g_51,jagged-vesicular,none,none
+g_52,jagged-vesicular,none,none
+g_53,elongated-tubular,elongated-tubular,none
+g_54,jagged-vesicular,blocky,maybe some
+g_55,jagged-vesicular,none,none observed
+g_56,elongated-tubular,blocky,none observed
+g_57,jagged-vesicular,blocky,none observed
+g_58,jagged-vesicular,none,none
+g_59,jagged-vesicular,elongated-tubular,none observed
+g_60,blocky,jagged-vesicular,some
+g_61,blocky,elongated-tubular,none observed
+g_62,blocky,elongated-tubular,some
+g_63,jagged-vesicular,none,none
+g_64,blocky,none,some
+g_65,elongated-tubular,jagged-vesicular,none observed
+g_66,jagged-vesicular,none,none observed
+g_67,blocky,none,maybe some
+g_68,fluidal,none,maybe some
+g_69,jagged-vesicular,none,none
+g_70,jagged-vesicular,fluidal,maybe some
+g_71,elongated-tubular,blocky,none observed
+g_72,elongated-tubular,none,none observed
+g_73,jagged-vesicular,none,none
+g_74,blocky,none,some
+g_75,blocky,elongated-tubular,none observed
+g_76,jagged-vesicular,none,maybe some
+g_77,elongated-tubular,blocky,some
+g_78,jagged-vesicular,none,none observed
+g_79,blocky,none,maybe some
+g_80,blocky,fluidal,none observed
+g_81,jagged-vesicular,none,none
+g_82,blocky,none,some
+g_83,jagged-vesicular,none,none
+g_84,elongated-tubular,blocky,some
+g_85,blocky,jagged-vesicular,none
+g_86,jagged-vesicular,none,none
+g_87,jagged-vesicular,none,none observed
+g_88,blocky,none,maybe some
+g_89,jagged-vesicular,none,none
+g_90,blocky,none,none observed
+g_91,blocky,jagged-vesicular,maybe some
+g_92,jagged-vesicular,elongated-tubular,clearly many
+g_93,blocky,none,clearly many
+g_94,jagged-vesicular,none,none
+g_95,blocky,none,none
+g_96,blocky,none,some
+g_97,blocky,none,none observed
+g_98,blocky,none,none
+g_99,elongated-tubular,none,none
+g_100,fluidal,none,none
+g_101,elongated-tubular,fluidal,none observed
+g_102,blocky,none,clearly many
+g_103,blocky,none,some
+g_104,blocky,none,maybe some
+g_105,blocky,none,maybe some
+g_106,blocky,none,none observed
+g_107,blocky,none,clearly many
+g_108,elongated-tubular,none,maybe some
+g_109,blocky,fluidal,none observed
+g_110,blocky,none,clearly many
+g_111,blocky,none,clearly many
+g_112,elongated-tubular,none,none observed
+g_113,blocky,none,some
+g_114,blocky,none,maybe some
+g_115,elongated-tubular,none,some
+g_116,jagged-vesicular,none,maybe some
+g_117,elongated-tubular,none,none observed
+g_118,elongated-tubular,blocky,none observed
+g_119,blocky,none,maybe some
+g_120,blocky,none,none observed
+g_121,blocky,none,none observed
+g_122,blocky,none,none observed
+g_123,blocky,none,clearly many
+g_124,elongated-tubular,fluidal,maybe some
+g_125,blocky,none,some
+g_126,blocky,none,maybe some
+g_127,elongated-tubular,none,maybe some
+g_128,blocky,none,clearly many
+g_129,blocky,jagged-vesicular,some
+g_130,blocky,jagged-vesicular,none
+g_131,blocky,none,clearly many
+g_132,blocky,none,maybe some
+g_133,blocky,none,none observed
+g_134,elongated-tubular,none,none observed
+g_135,elongated-tubular,jagged-vesicular,maybe some
+g_136,blocky,none,maybe some
+g_137,elongated-tubular,blocky,none
+g_138,elongated-tubular,none,some
+g_139,blocky,none,some
+g_140,jagged-vesicular,blocky,none observed
+g_141,jagged-vesicular,none,none
+g_142,jagged-vesicular,none,none observed
+g_143,jagged-vesicular,blocky,maybe some
+g_144,elongated-tubular,none,some
+g_145,jagged-vesicular,none,none observed
+g_146,jagged-vesicular,none,none
+g_147,blocky,none,none observed
+g_148,blocky,none,none observed
+g_149,jagged-vesicular,none,none observed
+g_150,jagged-vesicular,none,maybe some
+g_151,blocky,none,clearly many
+g_152,jagged-vesicular,none,some
+g_153,jagged-vesicular,none,none observed
+g_154,elongated-tubular,none,some
+g_155,jagged-vesicular,elongated-tubular,some
+g_156,elongated-tubular,none,none
+g_157,jagged-vesicular,none,some
+g_158,elongated-tubular,none,none observed
+g_159,blocky,none,some
+g_160,blocky,none,clearly many
+g_161,jagged-vesicular,none,none observed
+g_162,blocky,fluidal,none
+g_163,elongated-tubular,none,none observed
+g_164,blocky,none,maybe some
+g_165,jagged-vesicular,elongated-tubular,maybe some
+g_166,blocky,none,some
+g_167,blocky,none,none observed
+g_168,blocky,none,some
+g_169,elongated-tubular,none,maybe some
+g_170,blocky,none,clearly many
+g_171,jagged-vesicular,none,maybe some
+g_172,jagged-vesicular,none,some
+g_173,blocky,none,some
+g_174,elongated-tubular,none,none observed
+g_175,blocky,none,none observed
+g_176,jagged-vesicular,none,maybe some
+g_177,blocky,none,some
+g_178,blocky,none,some
+g_179,jagged-vesicular,none,some
+g_180,jagged-vesicular,none,none
+g_181,blocky,none,some
+g_182,jagged-vesicular,none,some
+g_183,blocky,none,maybe some
+g_184,jagged-vesicular,none,some
+g_185,blocky,elongated-tubular,maybe some
+g_186,elongated-tubular,fluidal,none observed
+g_187,blocky,none,none
+g_188,blocky,jagged-vesicular,some
+g_189,jagged-vesicular,none,none observed
+g_190,blocky,jagged-vesicular,some
+g_191,blocky,jagged-vesicular,some
+g_192,blocky,none,some
+g_193,jagged-vesicular,none,maybe some
+g_194,blocky,none,clearly many
+g_195,blocky,none,maybe some
+g_196,blocky,none,some
+g_197,jagged-vesicular,fluidal,some
+g_198,jagged-vesicular,none,none observed
+g_199,elongated-tubular,blocky,maybe some
+g_200,blocky,none,none observed
+g_201,jagged-vesicular,elongated-tubular,some
+g_202,jagged-vesicular,none,none observed
+g_203,blocky,none,some
+g_204,elongated-tubular,jagged-vesicular,maybe some
+g_205,blocky,none,clearly many
+g_206,blocky,none,some
+g_207,blocky,none,maybe some
+g_208,jagged-vesicular,none,none
+g_209,elongated-tubular,none,none observed
+g_210,elongated-tubular,none,none observed
+g_211,jagged-vesicular,fluidal,some
+g_212,blocky,none,none observed
+g_213,blocky,none,maybe some
+g_214,jagged-vesicular,none,none observed
+g_215,blocky,none,some
+g_216,jagged-vesicular,none,none
+g_217,elongated-tubular,none,none
+g_218,blocky,none,clearly many
+g_219,blocky,none,none observed
+g_220,blocky,none,none observed
+g_221,blocky,none,none observed
+g_222,blocky,none,maybe some
+g_223,jagged-vesicular,none,none
+g_224,blocky,none,none observed
+g_225,jagged-vesicular,fluidal,none
+g_226,elongated-tubular,fluidal,none observed
+g_227,blocky,elongated-tubular,some
+g_228,elongated-tubular,blocky,maybe some
+g_229,jagged-vesicular,none,maybe some
+g_230,blocky,none,clearly many
+g_231,jagged-vesicular,none,none observed
+g_232,blocky,none,maybe some
+g_233,elongated-tubular,none,none observed
+g_234,blocky,none,maybe some
+g_235,jagged-vesicular,none,none observed
+g_236,elongated-tubular,none,none observed
+g_237,blocky,jagged-vesicular,maybe some
+g_238,blocky,none,none observed
+g_239,blocky,none,none observed
+g_240,blocky,none,maybe some
+g_241,blocky,none,maybe some
+g_242,blocky,none,maybe some
+g_243,blocky,none,maybe some
+g_244,blocky,jagged-vesicular,clearly many
+g_245,jagged-vesicular,none,none observed
+g_246,jagged-vesicular,blocky,clearly many
+g_247,elongated-tubular,none,maybe some
+g_248,elongated-tubular,none,none observed
+g_249,blocky,none,maybe some
+g_250,blocky,none,none
+g_251,elongated-tubular,none,none observed
+g_252,jagged-vesicular,none,none
+g_253,blocky,none,maybe some
+g_254,blocky,none,some
+g_255,blocky,elongated-tubular,none observed
+g_256,blocky,none,clearly many
+g_257,blocky,none,none observed
+g_258,fluidal,none,none
+g_259,jagged-vesicular,blocky,some
+g_260,blocky,none,maybe some
+g_261,blocky,none,maybe some
+g_262,jagged-vesicular,blocky,none observed
+g_263,blocky,none,some
+g_264,blocky,none,none observed
+g_265,jagged-vesicular,none,none observed
+g_266,blocky,none,clearly many
+g_267,blocky,none,maybe some
+g_268,jagged-vesicular,none,maybe some
+g_269,blocky,elongated-tubular,none observed
+g_270,elongated-tubular,none,none observed
+g_271,blocky,none,maybe some
+g_272,blocky,none,some
+g_273,jagged-vesicular,fluidal,none observed
+g_274,blocky,none,none observed
+g_275,jagged-vesicular,blocky,maybe some
+g_276,blocky,none,none observed
+g_277,jagged-vesicular,none,maybe some
+g_278,jagged-vesicular,none,maybe some
+g_279,elongated-tubular,fluidal,none
+g_280,blocky,none,none observed
+g_281,jagged-vesicular,none,none observed
+g_282,blocky,jagged-vesicular,some
+g_283,blocky,fluidal,none
+g_284,jagged-vesicular,none,none observed
+g_285,jagged-vesicular,none,none
+g_286,elongated-tubular,fluidal,none observed
+g_287,blocky,none,none observed
+g_288,elongated-tubular,fluidal,none observed
+g_289,jagged-vesicular,none,none
+g_290,blocky,none,some
+g_291,blocky,none,maybe some
+g_292,blocky,jagged-vesicular,maybe some
+g_293,jagged-vesicular,none,none
+g_294,blocky,none,none observed
+g_295,blocky,none,none observed
+g_296,jagged-vesicular,none,maybe some
+g_297,jagged-vesicular,none,none
+g_298,blocky,none,some
+g_299,blocky,none,maybe some
+g_300,blocky,none,some
+g_301,jagged-vesicular,fluidal,none observed
+g_302,jagged-vesicular,none,maybe some
+g_303,blocky,none,none observed
+g_304,elongated-tubular,blocky,some
+g_305,elongated-tubular,none,maybe some
+g_306,blocky,none,some
+g_307,blocky,none,none observed
+g_308,blocky,none,some
+g_309,blocky,none,maybe some
+g_310,jagged-vesicular,none,none observed
+g_311,blocky,none,none observed
+g_312,blocky,none,some
+g_313,blocky,none,some
+g_314,blocky,none,some
+g_315,blocky,none,maybe some
+g_316,blocky,none,some
+g_317,blocky,none,maybe some
+g_318,blocky,none,none observed
+g_319,fluidal,none,none observed
+g_320,blocky,none,maybe some
+g_321,jagged-vesicular,elongated-tubular,none observed
+g_322,jagged-vesicular,none,none observed
+g_323,jagged-vesicular,fluidal,maybe some
+g_324,blocky,fluidal,some
+g_325,blocky,none,maybe some
+g_326,jagged-vesicular,none,none observed
+g_327,jagged-vesicular,none,maybe some
+g_328,blocky,none,some
+g_329,blocky,none,some
+g_330,jagged-vesicular,none,some
+g_331,blocky,none,maybe some
+g_332,blocky,none,none observed
+g_333,blocky,none,none observed
+g_334,elongated-tubular,jagged-vesicular,maybe some
+g_335,jagged-vesicular,none,none
+g_336,elongated-tubular,none,none observed
+g_337,elongated-tubular,none,maybe some
+g_338,blocky,none,maybe some
+g_339,blocky,none,none observed
+g_340,elongated-tubular,none,none observed
+g_341,jagged-vesicular,none,none
+g_342,blocky,none,maybe some
+g_343,blocky,none,some
+g_344,blocky,jagged-vesicular,none observed
+g_345,blocky,fluidal,none
+g_346,jagged-vesicular,none,none observed
+g_347,elongated-tubular,fluidal,maybe some
+g_348,jagged-vesicular,elongated-tubular,maybe some
+g_349,blocky,none,maybe some
+g_350,blocky,none,some
+g_351,blocky,none,none observed
+g_352,blocky,none,clearly many
+g_353,blocky,none,maybe some
+g_354,elongated-tubular,none,maybe some
+g_355,blocky,none,maybe some
+g_356,jagged-vesicular,none,none observed
+g_357,jagged-vesicular,none,none
+g_358,blocky,none,maybe some
+g_359,jagged-vesicular,none,some
+g_360,jagged-vesicular,none,none
+g_361,elongated-tubular,none,maybe some
+g_362,elongated-tubular,none,none observed
+g_363,jagged-vesicular,none,none observed
+g_364,jagged-vesicular,none,maybe some
+g_365,blocky,none,maybe some
+g_366,elongated-tubular,jagged-vesicular,none observed
+g_367,blocky,fluidal,none observed
+g_368,jagged-vesicular,none,none
+g_369,elongated-tubular,fluidal,maybe some
+g_370,elongated-tubular,none,some
+g_371,jagged-vesicular,blocky,clearly many
+g_372,blocky,jagged-vesicular,some
+g_373,blocky,none,some
+g_374,blocky,none,clearly many
+g_375,elongated-tubular,none,some
+g_376,elongated-tubular,none,none observed
+g_377,blocky,jagged-vesicular,some
+g_378,blocky,none,some
+g_379,blocky,none,clearly many
+g_380,jagged-vesicular,elongated-tubular,none observed
+g_381,blocky,none,maybe some
+g_382,jagged-vesicular,none,none
+g_383,blocky,none,none observed
+g_384,jagged-vesicular,none,none
+g_385,blocky,fluidal,maybe some
+g_386,blocky,none,maybe some
+g_387,blocky,none,some
+g_388,blocky,none,maybe some
+g_389,blocky,none,none observed
+g_390,blocky,none,some
+g_391,blocky,elongated-tubular,maybe some
+g_392,blocky,elongated-tubular,some
+g_393,blocky,none,some
+g_394,blocky,none,none observed
+g_395,jagged-vesicular,none,none observed
+g_396,blocky,jagged-vesicular,some
+g_397,blocky,none,none observed
+g_398,blocky,none,maybe some
+g_399,elongated-tubular,none,maybe some
+g_400,blocky,none,some
+g_401,elongated-tubular,fluidal,some
+g_402,elongated-tubular,none,some
+g_403,blocky,none,some
+g_404,elongated-tubular,none,maybe some
+g_405,blocky,none,none observed
+g_406,elongated-tubular,none,some
+g_407,blocky,none,none observed
+g_408,blocky,none,some
+g_409,blocky,none,maybe some
+g_410,blocky,none,none observed
+g_411,blocky,none,clearly many
+g_412,blocky,none,some
+g_413,blocky,fluidal,none
+g_414,blocky,fluidal,none observed
+g_415,elongated-tubular,none,some
+g_416,blocky,none,clearly many
+g_417,blocky,none,clearly many
+g_418,blocky,none,clearly many
+g_419,blocky,elongated-tubular,clearly many
+g_420,elongated-tubular,none,none observed
+g_421,blocky,none,some
+g_422,blocky,none,maybe some
+g_423,blocky,jagged-vesicular,some
+g_424,blocky,none,some
+g_425,blocky,fluidal,maybe some
+g_426,blocky,jagged-vesicular,none observed
+g_427,blocky,none,some
+g_428,jagged-vesicular,none,none observed
+g_429,blocky,jagged-vesicular,none observed
+g_430,elongated-tubular,fluidal,some
+g_431,elongated-tubular,blocky,maybe some
+g_432,blocky,none,maybe some
+g_433,blocky,none,maybe some
+g_434,jagged-vesicular,fluidal,none observed
+g_435,blocky,none,some
+g_436,jagged-vesicular,none,none observed
+g_437,blocky,jagged-vesicular,maybe some
+g_438,blocky,none,maybe some
+g_439,blocky,none,some
+g_440,elongated-tubular,blocky,maybe some
+g_441,blocky,elongated-tubular,maybe some
+g_442,jagged-vesicular,blocky,clearly many
+g_443,blocky,none,clearly many
+g_444,blocky,none,maybe some
+g_445,blocky,none,maybe some
+g_446,blocky,none,some
+g_447,jagged-vesicular,blocky,maybe some
+g_448,blocky,none,maybe some
+g_449,blocky,jagged-vesicular,maybe some
+g_450,jagged-vesicular,none,maybe some
+g_451,blocky,jagged-vesicular,maybe some
+g_452,blocky,none,none observed
+g_453,jagged-vesicular,blocky,maybe some
+g_454,blocky,none,some
+g_455,blocky,fluidal,some
+g_456,jagged-vesicular,blocky,some
+g_457,blocky,none,clearly many
+g_458,blocky,none,some
+g_459,blocky,none,clearly many
+g_460,blocky,fluidal,none observed
+g_461,jagged-vesicular,none,maybe some
+g_462,jagged-vesicular,none,clearly many
+g_463,jagged-vesicular,none,maybe some
+g_464,jagged-vesicular,none,some
+g_465,elongated-tubular,none,maybe some
+g_466,jagged-vesicular,none,none observed
+g_467,blocky,none,some
+g_468,jagged-vesicular,none,some
+g_469,elongated-tubular,none,maybe some
+g_470,blocky,none,maybe some
+g_471,blocky,none,maybe some
+g_472,elongated-tubular,none,none observed
+g_473,jagged-vesicular,fluidal,none
+g_474,elongated-tubular,none,maybe some
+g_475,blocky,none,clearly many
+g_476,elongated-tubular,fluidal,none observed
+g_477,blocky,none,clearly many
+g_478,blocky,elongated-tubular,maybe some
+g_479,elongated-tubular,fluidal,none observed
+g_480,blocky,none,maybe some
+g_481,jagged-vesicular,none,none observed
+g_482,jagged-vesicular,none,none observed
+g_483,jagged-vesicular,none,maybe some
+g_484,jagged-vesicular,none,none observed
+g_485,blocky,none,clearly many
+g_486,jagged-vesicular,none,none observed
+g_487,blocky,none,maybe some
+g_488,elongated-tubular,none,maybe some
+g_489,elongated-tubular,none,none observed
+g_490,blocky,none,some
+g_491,jagged-vesicular,none,none
+g_492,blocky,none,maybe some
+g_493,blocky,none,none observed
+g_494,elongated-tubular,fluidal,maybe some
+g_495,elongated-tubular,none,some
+g_496,jagged-vesicular,none,maybe some
+g_497,blocky,fluidal,maybe some
+g_498,blocky,none,some
+g_499,jagged-vesicular,none,some
+g_500,jagged-vesicular,fluidal,none observed
+g_501,elongated-tubular,blocky,some
+g_502,jagged-vesicular,none,some
+g_503,blocky,none,some
+g_504,blocky,none,maybe some
+g_505,blocky,none,maybe some
+g_506,blocky,none,clearly many
+g_507,blocky,none,some
+g_508,elongated-tubular,none,none observed
+g_509,blocky,jagged-vesicular,some
+g_510,blocky,none,some
+g_511,jagged-vesicular,none,some
+g_512,blocky,fluidal,some
+g_513,blocky,none,clearly many
+g_514,elongated-tubular,blocky,maybe some
+g_515,blocky,none,some
+g_516,jagged-vesicular,none,maybe some
+g_517,blocky,none,none observed
+g_518,jagged-vesicular,none,none observed
+g_519,jagged-vesicular,none,none observed
+g_520,jagged-vesicular,blocky,none observed
+g_521,elongated-tubular,fluidal,maybe some
+g_522,blocky,none,clearly many
+g_523,elongated-tubular,blocky,maybe some
+g_524,elongated-tubular,none,maybe some
+g_525,blocky,elongated-tubular,maybe some
+g_526,blocky,none,clearly many
+g_527,blocky,elongated-tubular,clearly many
+g_528,blocky,none,clearly many
+g_529,blocky,none,clearly many
+g_530,jagged-vesicular,none,some
+g_531,elongated-tubular,jagged-vesicular,some
+g_532,blocky,none,some
+g_533,blocky,none,clearly many
+g_534,elongated-tubular,none,some
+g_535,jagged-vesicular,none,maybe some
+g_536,blocky,none,clearly many
+g_537,blocky,none,some
+g_538,blocky,none,clearly many
+g_539,jagged-vesicular,none,maybe some
+g_540,blocky,elongated-tubular,some
+g_541,jagged-vesicular,none,some
+g_542,elongated-tubular,none,none observed
+g_543,elongated-tubular,none,some
+g_544,blocky,none,clearly many
+g_545,blocky,none,clearly many
+g_546,elongated-tubular,none,some
+g_547,blocky,none,clearly many
+g_548,blocky,none,clearly many
+g_549,elongated-tubular,fluidal,some
+g_550,elongated-tubular,none,maybe some
+g_551,blocky,jagged-vesicular,some
+g_552,blocky,none,clearly many
+g_553,jagged-vesicular,none,some
+g_554,blocky,elongated-tubular,some
+g_555,elongated-tubular,none,maybe some
+g_556,jagged-vesicular,blocky,maybe some
+g_557,jagged-vesicular,none,none observed
+g_558,blocky,none,some
+g_559,jagged-vesicular,none,none observed
+g_560,blocky,jagged-vesicular,some
+g_561,blocky,none,maybe some
+g_562,blocky,none,maybe some
+g_563,blocky,none,maybe some
+g_564,jagged-vesicular,fluidal,maybe some
+g_565,blocky,none,some
+g_566,blocky,none,some
+g_567,jagged-vesicular,none,some
+g_568,elongated-tubular,none,none
+g_569,jagged-vesicular,none,clearly many
+g_570,jagged-vesicular,fluidal,none observed
+g_571,elongated-tubular,none,maybe some
+g_572,elongated-tubular,none,none observed
+g_573,blocky,none,some
+g_574,blocky,none,some
+g_575,fluidal,none,none
+g_576,blocky,none,some
+g_577,jagged-vesicular,none,some
+g_578,jagged-vesicular,none,clearly many
+g_579,blocky,none,maybe some
+g_580,elongated-tubular,fluidal,some
+g_581,blocky,elongated-tubular,clearly many
+g_582,elongated-tubular,none,some
+g_583,fluidal,none,maybe some
+g_584,jagged-vesicular,none,clearly many
+g_585,blocky,fluidal,none
+g_586,elongated-tubular,none,some
+g_587,fluidal,none,none observed
+g_588,blocky,none,some
+g_589,elongated-tubular,fluidal,some
+g_590,blocky,none,clearly many
+g_591,jagged-vesicular,none,some
+g_592,blocky,none,maybe some
+g_593,blocky,none,some
+g_594,elongated-tubular,none,some
+g_595,blocky,none,some
+g_596,elongated-tubular,none,none observed
+g_597,blocky,none,some
+g_598,jagged-vesicular,none,maybe some
+g_599,blocky,fluidal,some
+g_600,jagged-vesicular,none,none observed
+g_601,jagged-vesicular,elongated-tubular,none observed
+g_602,elongated-tubular,blocky,maybe some
+g_603,blocky,none,maybe some
+g_604,jagged-vesicular,none,some
+g_605,jagged-vesicular,none,maybe some
+g_606,jagged-vesicular,none,some
+g_607,elongated-tubular,none,maybe some
+g_608,blocky,none,some
+g_609,blocky,jagged-vesicular,clearly many
+g_610,elongated-tubular,fluidal,none observed
+g_611,blocky,none,some
+g_612,elongated-tubular,none,none observed
+g_613,elongated-tubular,fluidal,maybe some
+g_614,blocky,jagged-vesicular,maybe some
+g_615,blocky,fluidal,maybe some
+g_616,jagged-vesicular,fluidal,maybe some
+g_617,blocky,none,some
+g_618,elongated-tubular,none,some
+g_619,blocky,jagged-vesicular,maybe some
+g_620,blocky,jagged-vesicular,some
+g_621,jagged-vesicular,none,some
+g_622,elongated-tubular,none,some
+g_623,blocky,none,maybe some
+g_624,blocky,none,maybe some
+g_625,fluidal,none,maybe some
+g_626,fluidal,none,maybe some
+g_627,elongated-tubular,fluidal,none observed
+g_628,elongated-tubular,none,some
+g_629,blocky,none,maybe some
+g_630,jagged-vesicular,none,some
+g_631,blocky,fluidal,maybe some
+g_632,blocky,none,some
+g_633,blocky,none,clearly many
+g_634,blocky,none,some
+g_635,jagged-vesicular,fluidal,maybe some
+g_636,elongated-tubular,none,none observed
+g_637,blocky,none,clearly many
+g_638,elongated-tubular,fluidal,none observed
+g_639,blocky,none,some
+g_640,blocky,none,maybe some
+g_641,jagged-vesicular,none,some
+g_642,jagged-vesicular,none,none observed
+g_643,blocky,none,clearly many
+g_644,elongated-tubular,none,none observed
+g_645,blocky,none,maybe some
+g_646,elongated-tubular,none,some
+g_647,blocky,fluidal,maybe some
+g_648,blocky,none,maybe some
+g_649,elongated-tubular,none,maybe some
+g_650,fluidal,none,maybe some
+g_651,blocky,none,some
+g_652,blocky,none,some
+g_653,blocky,none,some
+g_654,blocky,none,clearly many
+g_655,jagged-vesicular,none,some
+g_656,blocky,none,clearly many
+g_657,blocky,jagged-vesicular,maybe some
+g_658,blocky,none,clearly many
+g_659,elongated-tubular,none,maybe some
+g_660,blocky,none,some
+g_661,jagged-vesicular,none,some
+g_662,jagged-vesicular,none,none observed
+g_663,jagged-vesicular,none,maybe some
+g_664,fluidal,none,none observed
+g_665,jagged-vesicular,none,none observed
+g_666,blocky,none,some
+g_667,jagged-vesicular,blocky,some
+g_668,blocky,fluidal,some
+g_669,jagged-vesicular,none,maybe some
+g_670,elongated-tubular,none,some
+g_671,blocky,none,some
+g_672,blocky,none,none observed
+g_673,elongated-tubular,none,none observed
+g_674,elongated-tubular,none,some
+g_675,elongated-tubular,none,maybe some
+g_676,jagged-vesicular,none,none observed
+g_677,blocky,none,clearly many
+g_678,elongated-tubular,none,some
+g_679,blocky,none,some
+g_680,blocky,none,some
+g_681,blocky,none,some
+g_682,blocky,none,none observed
+g_683,elongated-tubular,none,none observed
+g_684,blocky,none,clearly many
+g_685,blocky,fluidal,none observed
+g_686,fluidal,none,none observed
+g_687,blocky,none,some
+g_688,elongated-tubular,none,maybe some
+g_689,fluidal,none,none
+g_690,blocky,none,maybe some
+g_691,blocky,none,clearly many
+g_692,elongated-tubular,blocky,maybe some
+g_693,elongated-tubular,none,some
+g_694,fluidal,elongated-tubular,maybe some
+g_695,jagged-vesicular,none,some
+g_696,jagged-vesicular,none,some
+g_697,blocky,none,clearly many
+g_698,blocky,none,clearly many
+g_699,blocky,none,some
+g_700,blocky,none,maybe some
+g_701,fluidal,elongated-tubular,none
+g_702,elongated-tubular,none,maybe some
+g_703,blocky,none,clearly many
+g_704,blocky,none,some
+g_705,jagged-vesicular,none,maybe some
+g_706,elongated-tubular,none,some
+g_707,blocky,none,clearly many
+g_708,jagged-vesicular,none,some
+g_709,fluidal,none,none observed
+g_710,elongated-tubular,none,none
+g_711,blocky,none,some
+g_712,blocky,elongated-tubular,some
+g_713,blocky,fluidal,none observed
+g_714,blocky,none,clearly many
+g_715,jagged-vesicular,none,some
+g_716,blocky,none,some
+g_717,jagged-vesicular,none,maybe some
+g_718,blocky,none,clearly many
+g_719,blocky,none,clearly many
+g_720,blocky,none,some
+g_721,blocky,none,some
+g_722,blocky,none,some
+g_723,jagged-vesicular,none,some
+g_724,jagged-vesicular,none,maybe some
+g_725,elongated-tubular,fluidal,clearly many
+g_726,blocky,elongated-tubular,some
+g_727,blocky,none,some
+g_728,blocky,none,clearly many
+g_729,fluidal,none,some
+g_730,blocky,none,some
+g_731,blocky,none,clearly many
+g_732,blocky,none,some
+g_733,elongated-tubular,none,some
+g_734,blocky,none,maybe some
+g_735,blocky,none,some
+g_736,blocky,none,clearly many
+g_737,blocky,none,some
+g_738,jagged-vesicular,none,clearly many
+g_739,blocky,none,clearly many
+g_740,jagged-vesicular,none,none observed
+g_741,blocky,none,some
+g_742,elongated-tubular,none,some
+g_743,jagged-vesicular,none,some
+g_744,blocky,fluidal,some
+g_745,jagged-vesicular,blocky,clearly many
+g_746,blocky,none,maybe some
+g_747,blocky,none,maybe some
+g_748,elongated-tubular,none,maybe some
+g_749,elongated-tubular,none,maybe some
+g_750,elongated-tubular,none,none observed
+g_751,blocky,none,some
+g_752,fluidal,none,maybe some
+g_753,blocky,none,some
+g_754,elongated-tubular,fluidal,none observed
+g_755,blocky,none,some
+g_756,blocky,elongated-tubular,maybe some
+g_757,jagged-vesicular,none,some
+g_758,elongated-tubular,none,some
+g_759,elongated-tubular,none,none observed
