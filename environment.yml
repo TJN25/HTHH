@@ -1,6 +1,6 @@
 name: pygmt
 channels:
- - defaults
+ - conda-forge
 dependencies:
  - numpy
  - scipy
