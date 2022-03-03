@@ -7,5 +7,4 @@ dependencies:
  - matplotlib
  - seaborn
  - plotly
- - plotly.express
  - pandas
