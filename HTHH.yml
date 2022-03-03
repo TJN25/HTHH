@@ -2,10 +2,10 @@ name: pygmt
 channels:
  - defaults
 dependencies:
- - pandas
+ - numpy
  - scipy
  - matplotlib
  - seaborn
  - plotly
  - plotly.express
- - numpy
+ - pandas
